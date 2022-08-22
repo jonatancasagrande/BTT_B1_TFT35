@@ -7,4 +7,7 @@ if you update your TFT Fast? Download .zip package and decompress to microSD  , 
 
 Disclaimer: it's firmware compiled for BTT B1 V3.0 TFT - Not use on another HW config.
 
+ATTENTION: BAUDRATE TFT CONFIGURED ON 500000 , IF YOUR MAINBOARD CONFIGURED IN ANOTHER BAUDRATE , YOUR TFT SAYS "NO PRINTER CONNECTED" , CHANGE YOUR TFT TO MAINBOARD CONFIGURATED VALUE AND ALL RUN AGAIN :).
+
+
 
